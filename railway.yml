@@ -1,0 +1,6 @@
+build:
+  commands:
+    - echo "Build commands go here"
+deploy:
+  commands:
+    - echo "Deploy commands go here"
